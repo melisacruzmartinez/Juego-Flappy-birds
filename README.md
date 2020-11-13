@@ -1,3 +1,1 @@
-# Workshop Juegos - Flappy Bird
-
-Repositorio para el workshop realizado el 07/10/2020 para estudiantes de Ada ITW
+# https://github.com/melisacruzmartinez/Juego-Flappy-birds/issues/1#issue-742526165
